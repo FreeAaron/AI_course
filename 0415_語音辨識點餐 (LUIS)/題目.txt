@@ -1,0 +1,12 @@
+20220415 練習
+我是一家 XXX 手搖飲料店的老闆，最近我們想要引入語音點餐服務，
+想麻煩AI班的同學使用Azure AI 服務，將我們的需求流程完成
+
+流程如下：
+#語音轉字串 給LUIS
+客戶透過語音的方式點餐，例如：
+I want a bottle of milk tea.
+透過Azure語音紀錄點餐內容(印出)
+
+機器人自動回覆(語音)
+語音：Your milk tea has already been ordered.
